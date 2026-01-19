@@ -1,14 +1,31 @@
-Hi, I'm Suhasini 👋
+## Hi, I'm Suhasini 👋
 
-Suhasini R  
-Pre-final year EEE student  
-Java learner and problem solving enthusiast
+### SUHASINI R  
+**Pre-final year EEE student**  
+Java learner & problem solving enthusiast
 
-About  
-Currently learning Java and DSA  
-Preparing for tech placements  
-Interested in software development  
+---
 
-Projects  
-Java Problem Solving  
-Portfolio Website using HTML and CSS
+### About
+- 🌱 Currently learning **Java & DSA**
+- 🎯 Preparing for **tech placements**
+- 💡 Interested in software development and logic building
+- ⚡ Consistent learner, improving one step at a time
+
+---
+
+### Skills
+- Programming: **Java**
+- Basics: **HTML, CSS**
+- Core: **Problem Solving, Logical Thinking**
+
+---
+
+### Projects
+- 📌 **Java Problem Solving**
+- 📌 **Personal Portfolio Website (HTML & CSS)**
+
+---
+
+### Find me around the web 🌍
+- 💻 GitHub: https://github.com/suhasinir2005
