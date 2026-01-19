@@ -1,8 +1,8 @@
 ## Hi, I'm Suhasini 👋
 
 ### SUHASINI R  
-**Pre-final year EEE student**  
-Java learner & problem solving enthusiast
+**Pre-final year EEE student**   
+Aspiring Software Engineer | Java & Problem Solving
 
 ---
 
@@ -18,12 +18,18 @@ Java learner & problem solving enthusiast
 - Programming: **Java**
 - Basics: **HTML, CSS**
 - Core: **Problem Solving, Logical Thinking**
+- Tools: **Git, GitHub,VS Code**
+
 
 ---
 
 ### Projects
 - 📌 **Java Problem Solving**
+       Practicing Java fundamentals, arrays, 2D arrays, and basic OOPs concepts.
+  
 - 📌 **Personal Portfolio Website (HTML & CSS)**
+       Responsive multi-page website showcasing skills, education, and projects.
+
 
 ---
 
