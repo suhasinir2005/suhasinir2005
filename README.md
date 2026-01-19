@@ -24,11 +24,9 @@ Aspiring Software Engineer | Java & Problem Solving
 ---
 
 ### Projects
-- 📌 **Java Problem Solving**
-       Practicing Java fundamentals, arrays, 2D arrays, and basic OOPs concepts.
+- 📌 **Java Problem Solving** : Practicing Java fundamentals, arrays, 2D arrays, and basic OOPs concepts.
   
-- 📌 **Personal Portfolio Website (HTML & CSS)**
-       Responsive multi-page website showcasing skills, education, and projects.
+- 📌 **Personal Portfolio Website (HTML & CSS)** : Responsive multi-page website showcasing skills, education, and projects.
 
 
 ---
