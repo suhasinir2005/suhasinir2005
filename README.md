@@ -28,4 +28,6 @@ Java learner & problem solving enthusiast
 ---
 
 ### Find me around the web 🌍
-- 💻 GitHub: https://github.com/suhasinir2005
+- 💻 GitHub: https://github.com/suhasinir2005  
+- 💼 LinkedIn: https://www.linkedin.com/in/suhasinir2005  
+- 📧 Email: suhasiniramarao2005@gmail.com
