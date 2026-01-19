@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Suhasini 👋
 
-<!--
-**suhasinir2005/suhasinir2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Suhasini R  
+Pre-final year EEE student  
+Java learner and problem solving enthusiast
 
-Here are some ideas to get you started:
+About  
+Currently learning Java and DSA  
+Preparing for tech placements  
+Interested in software development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects  
+Java Problem Solving  
+Portfolio Website using HTML and CSS
